@@ -5,6 +5,7 @@ import type { Boss } from './types/Boss';
 import { BossCard } from './components/BossCard';
 import Login from "./components/Login";
 import Footer from "./components/Footer";
+import Stats from "./components/Stats";
 
 import {
   fetchBosses,
@@ -126,14 +127,17 @@ export function App() {
   }
 
   return (
-    <div className="container mx-auto flex flex-col justify-between h-full bg-base-100 w-full">
+    <div className="container flex flex-col justify-between h-full bg-base-100 w-full sm:px-0 px-2 mx-auto">
+      <div className="flex flex-col">
+        <Stats defeated={defeated} timers={timers} />
+      </div>
       <div className="flex justify-center gap-4 mb-2">
         <ul className="menu menu-horizontal  bg-base-200 rounded-box justify-center gap-2">
           {Object.entries(bossesByCategory).map(([category]) => (
             <li key={category}>
               <a
                 onClick={() => setActiveTab(category)}
-                className={`${activeTab === category ? 'text-primary font-bold' : 'text-base-content'}`}
+                className={`${activeTab === category ? 'text-primary font-bold decoration-primary-500 underline-offset-4 underline' : 'text-base-content'}`}
               >
                 {category}
               </a>
@@ -142,7 +146,7 @@ export function App() {
         </ul>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 w-full mb-2">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 w-full mb-2"> 
         {bosses.map((boss) => (
           <BossCard
             boss={boss}

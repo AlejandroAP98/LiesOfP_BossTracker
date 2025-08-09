@@ -76,7 +76,7 @@ export const BossCard = ({
   };
 
   return (
-    <div className={`card w-full cursor-pointer transition-colors duration-500 ease-in-out  ${derrotados ? 'bg-primary text-primary-content ' : 'bg-base-300'}`} onDblClick={handleToggle}>
+    <div className={`card sm:card-md card-xs w-full cursor-pointer transition-colors duration-500 ease-in-out   ${derrotados ? 'bg-primary text-primary-content ' : 'bg-base-300'}`} onDblClick={handleToggle}>
         <div className="flex justify-start items-center mx-5 mt-1">
             <input
               type="checkbox"

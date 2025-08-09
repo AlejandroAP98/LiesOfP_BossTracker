@@ -1,0 +1,487 @@
+{
+  "Bosses Overture": 
+  [
+    {
+      "name": "Tyrannical Predator",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/tyrannical-predator-boss-profile-overture-dlc-lies-of-p-wiki-guide.png",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Tyrannical+Predator",
+      "location": "Krat Zoo, Savanna Experience Center",
+      "rewards": [
+        "Full Moonstone"
+      ],
+      "description": "Tyrannical Predatoris aBossinLies of P, encountered in theOverture DLC.Tyrannical Predatoris a large crocodilian boss that uses its wide snout to attack players. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/tyrannical-predator-boss-overture-dlc-lies-of-p-wiki-guide.jpg",
+      "health": "24,708",
+      "ergo": "8,383"
+    },
+    {
+      "name": "Markiona, Puppeteer of Death",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/markiona-puppeteer-of-death-boss-profile-overture-dlc-lies-of-p-wiki-guide.png",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Markiona,+Puppeteer+of+Death",
+      "location": "Krat Greenhouse, Greenhouse Interior",
+      "rewards": [
+        "Macabre Puppeteer's Ergo",
+        "Markiona's Key"
+      ],
+      "description": "Markiona, Puppeteer of Deathis aBossinLies of P, encountered in theOverture DLC. In the encounter withMarkiona, Puppeteer of Death, players will simultaneously fight theQueen's Arche Puppetalong withMarkiona. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/markiona-puppeteer-of-death-boss-overture-dlc-lies-of-p-wiki-guide-2.jpg",
+      "health": "Markiona 27,697 Arche Puppet 6,920"
+    },
+    {
+      "name": "Veronique, Leader of the Sweepers",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/veronique-leader-of-the-sweepers-boss-profile-overture-dlc-lies-of-p-wiki-guide.png",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Veronique,+Leader+of+the+Sweepers",
+      "location": "Coolant Control Room",
+      "rewards": [
+        "Veronique's Will",
+        "Coolant Control Room Console Key",
+        "Blue Sheep's Mask",
+        "Blue Sheep's Battle Apparel"
+      ],
+      "description": "Veronique, Leader of the Sweepersis aBossinLies of P, encountered in theOverture DLC.Veronique, Leader of the Sweeperswields a greathammer equipped with an engine, allowingVeroniqueto enhance her attacks with Fire.. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/veronique-leader-of-the-sweepers-boss-ooverture-dlc_lies_of_p_wiki.jpg",
+      "ergo": "4,400"
+    },
+    {
+      "name": "Two-faced Overseer",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/two-faced-overseer-boss-profile-overture-dlc-lies-of-p-wiki-guide.png",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Two-faced+Overseer",
+      "location": "Elixir Research Zone",
+      "rewards": [
+        "Full Moonstone of the Covenant",
+        "Bloody Cipher Machine"
+      ],
+      "description": "Two-faced Overseeris aBossinLies of P, encountered in theOverture DLC. TheTwo-faced Overseeris a battle-axe wielding boss that grows stronger as it becomes enraged. The player may use theDaylight-Wreathed Hornto summonthe Trackerto assist them in this fight.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/two-faced-seer-boss-overture-dlc-lies-of-p-wiki-guide.jpg",
+      "ergo": "17,488"
+    },
+    {
+      "name": "Premetamorphic Green Hunter",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/premetamorphic-green-hunter-boss-profile-overture-dlc-lies-of-p-wiki-guide.png",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Premetamorphic+Green+Hunter",
+      "location": "Ergo Mining Site",
+      "rewards": [
+        "Quartz"
+      ],
+      "description": "Premetamorphic Green Hunteris a hidden optionalBossin theLies of P, encountered in theOverture DLC. ThePremetamorphic Green Hunteris an alien-like creature that uses tentacles, claws, and acid to attack and cause Decay build-up. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/premetamorphic_green_hunter_overture_enemies_lies_of_p_wiki.jpg",
+      "ergo": "8876"
+    },
+    {
+      "name": "Anguished Guardian of the Ruins",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/anguished-guardian-of-the-ruins-boss-profile-overture-dlc-lies-of-p-wiki-guide.png",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Anguished+Guardian+of+the+Ruins",
+      "location": "Ancient Ruins Excavation Site",
+      "rewards": [
+        "Tortured Guardian's Ergo"
+      ],
+      "description": "Anguished Guardian of the Ruinsis aBossinLies of P, encountered in theOverture DLC. TheAnguished Guardian of the Ruinsis a massive humanoid boss, wielding a trident and a halberd. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/anguished-guardian-of-the-ruins-boss-overture-dlc-lies-of-p-wiki-guide.jpg"
+    },
+    {
+      "name": "Lumacchio, Leader of the Bastards",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/lumacchio-leader-of-the-bastards-boss-profile-overture-dlc-lies-of-p-wiki-guide.png",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Lumacchio,+Leader+of+the+Bastards",
+      "location": "Shipwreck Exterior, Archon Fleet",
+      "rewards": [
+        "Golden Snail's Mask",
+        "Golden Snail's Tailcoat"
+      ],
+      "description": "Lumacchio, Leader of the Bastardsis aBossinLies of P, encountered in theOverture DLC.Lumacchio, Leader of the Bastardsis a highly mobile boss who uses an umbrella in combat. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/lumacchio-leader-of-the-bastards-boss-overture-dlc-lies-of-p-wiki-guide.jpg"
+    },
+    {
+      "name": "Arlecchino, the Blood Artist",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/arlecchino-the-blood-artist-boss-profile-overture-dlc-lies-of-p-wiki-guide.png",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Arlecchino,+the+Blood+Artist",
+      "location": "Rose Garden Entrance",
+      "rewards": [
+        "Secret Room Key",
+        "Leader's Mask",
+        "Leader's Battle Apparel",
+        "Monad's Rose Sword"
+      ],
+      "description": "Arlecchino the Blood Artistis aBossinLies of P.Arlecchino the Blood Artistserves as the final boss of theOverture DLC. In the boss fight withArlecchino, players will be fighting alongside Lea. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/arlecchino-the-blood-artist-boss-overture-dlc-lies-of-p-wiki-guide.jpg"
+    }
+  ],
+  "Bosses Main": 
+  [
+    {
+      "name": "Parade Master",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/parade-master-profile-boss-lies-of-p-wiki-guide.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Parade+Master",
+      "location": "Krat Central Station Plaza (Cerasani Alley)",
+      "rewards": [
+        "Parade Leader's Ergo",
+        "Quartz"
+      ],
+      "description": "Parade Masteris aBossinLies of P. TheParade Masteris the first boss encountered inLies of Pand is located atKrat Central Station Plaza, blockingHotel Krat. TheParade Masteruses basic melee and charge attacks during the fight, using its head and hat as makeshift weapons. TheParade Masterdrops the Parade Leader's Ergo after being defeated.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/parade-master-boss-lies-of-p-wiki-guide-300px1.jpg",
+      "health": "4,400",
+      "ergo": "1,852"
+    },
+    {
+      "name": "Scrapped Watchman",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/scrapped_watchman-profile-boss-lies-of-p-wiki-guide.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Scrapped+Watchman",
+      "location": "Krat City Hall Courtyard",
+      "rewards": [
+        "Overcharged Storage Battery",
+        "Broken Hero's Ergo",
+        "Core",
+        "Quartz",
+        "Small wooden Officer Puppet"
+      ],
+      "description": "Scrapped Watchmanis aBossinLies of P. The Krat City Hall's Watchman is found guarding the courtyard. His dialogue suggests that he is there to avenge his fallen friends, and his name is actually Murphy. He has Electric Shock emitting abilities that come from his overcharged storage battery. These abilities can be harnessed for yourself by obtaining the required part from him. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets. Defeat him to gain the Scrapped WatchmanAchievement.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/scrapped_watchman-boss-lies-of-p-wiki-guide-300px1.jpg",
+      "health": "8,710",
+      "ergo": "5,040 NG+: 17,640"
+    },
+    {
+      "name": "King's Flame, Fuoco",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/king's_flame,_fuoco-profile-boss-lies-of-p-wiki-guide.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/King's+Flame,+Fuoco",
+      "location": "Center of Venigni Works",
+      "rewards": [
+        "High-powered Flame Amplifier",
+        "King's Flame Ergo",
+        "Flame Grindstone"
+      ],
+      "description": "King's Flame, Fuocois aBossinLies of P. Like his name suggests theKing's Flamehas a set of abilities that can deal fire and cause players toOverheatwith his high-powered Flame Amplifier. He is encountered in the furnace room in the Center of Venigni Works. Throughout his encounter, he expresses his need for bigger flames and his loyalty to the king of puppets, Romeo, throughout the fight. Defeat him to obtain the King's Flameachievement. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/king's_flame,_fuoco-boss-lies-of-p-wiki-guide-300px2.jpg",
+      "health": "8,639",
+      "ergo": "6,438"
+    },
+    {
+      "name": "Fallen Archbishop Andreus",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/fallen_archbishop_andreus-profile-boss-lies-of-p-wiki-guide.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Fallen+Archbishop+Andreus",
+      "location": "Archbishop's Altar",
+      "rewards": [
+        "Twisted Angel's Ergo"
+      ],
+      "description": "Fallen Archbishop Andreusis aBossinLies of P.The Fallen Archbishopis the corrupted Bishop of St. Frangelico Cathedral, where everyone was afflicted or died with the disease. He gave into his greed and changed forms and now lives with the delusion that he is the chosen angel from god. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/fallen_archbishop_andreus-boss-lies-of-p-wiki-guide-300px1.jpg",
+      "health": "6,995 (1st phase) 7,927 (2nd phase)",
+      "ergo": "7,980"
+    },
+    {
+      "name": "Eldest of the Black Rabbit Brotherhood",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/black_rabbit_brotherhood-boss-lies-of-p-wiki-guide-profile1.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Eldest+of+the+Black+Rabbit+Brotherhood",
+      "location": "Malum District Town Hall",
+      "rewards": [
+        "Resplendent Ergo Chunk",
+        "Taunt Gesture"
+      ],
+      "description": "Eldest of the Black Rabbit Brotherhoodis aBossinLies of P. The Eldest is a part of theBlack Rabbit Brotherhood, which is a notorious criminal group of 4 Stalkers based in the Malum District. They torment the residents of their neighborhood. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets. Clear this boss battle to gain theAchievement:The Delayed Match.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/black_rabbit_brotherhood-boss-lies-of-p-wiki-guide-300px1.jpg",
+      "health": "8,813",
+      "ergo": "9,255"
+    },
+    {
+      "name": "King of Puppets",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/king_of_puppets-boss-lies-of-p-wiki-guide-profile.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/King+of+Puppets",
+      "location": "Estella Opera House Stage",
+      "rewards": [
+        "Burnt-White King's Ergo",
+        "Puppet Prince's Formal Dress",
+        "Someone's Necklace"
+      ],
+      "description": "King of Puppetsis aBossinLies of P.King of Puppetsis encountered in the Estella Opera House Stage enjoying a stageplay. He appears to attempt to reason with P unbeknownst to him. His encounter is followed by another boss battle against his other form,Romeo, King of Puppets. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/king_of_puppets-boss-lies-of-p-wiki-guide-300px1.jpg",
+      "health": "8,474 (1st phase) 10,557 (2nd phase)",
+      "ergo": "10,023"
+    },
+    {
+      "name": "Romeo, King of Puppets",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/romeo_king_of_puppets-boss-lies-of-p-wiki-guide-profile.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Romeo,+King+of+Puppets",
+      "location": "Estella Opera House Stage",
+      "rewards": [
+        "Burnt-White King's Ergo",
+        "Puppet Prince's Formal Dress",
+        "Someone's Necklace"
+      ],
+      "description": "Romeo, King of Puppetsis aBossinLies of P.Romeo, King of Puppetsis the human form of theKing of Puppetsand appears as the second part of the boss fight. According to his dialogue, he holds memories of a dear friend called Carlo. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/romeo_king_of_puppets-boss-lies-of-p-wiki-guide-cutscene-300px-min.jpeg"
+    },
+    {
+      "name": "Champion Victor",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/uit_gallery_thefanaticvictor_p2.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Champion+Victor",
+      "location": "Grand Exhibition Gallery",
+      "rewards": [
+        "Reborn Champion's Ergo"
+      ],
+      "description": "Champion Victoris aBossinLies of P.Champion Victoris a champion of the Alchemist led partially by Simon Manus. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/champion_victors-boss-lies-of-p-wiki-guide-300px1.jpg",
+      "health": "23,310(check notes)",
+      "ergo": "11,684"
+    },
+    {
+      "name": "Green Monster of the Swamp",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/green_monster_of_the_swamp_boss-boss-lies-of-p-wiki-guide-profile.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Green+Monster+of+the+Swamp",
+      "location": "Barren Swamp Nest",
+      "rewards": [
+        "Puppet-Devouring Green Hunter's Ergo",
+        "Golden Ergo"
+      ],
+      "description": "Green Monster of the Swampis aBossinLies of P.Green Monster of the Swampis the Monster that occupies the Barren Swamp said to have been made by the Alchemists. According to the Sentry's notebook, it obsessively protects its nest and likes to bring its toys there, and sucks Ergo from scrapped puppets. The Green Monster of the Swamp is the first phase of its form before it merges with puppet parts and turns into thePuppet-Devouring Green Monster. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/green_monster_of_the_swamp_boss-boss-lies-of-p-wiki-guide-300px2.jpg",
+      "health": "12,115 (1st phase) 15,144 (2nd phase)",
+      "ergo": "12,489"
+    },
+    {
+      "name": "Puppet-Devouring Green Monster",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/puppet-devouring_green_monster-boss-lies-of-p-wiki-guide-profile.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Puppet-Devouring+Green+Monster",
+      "location": "Barren Swamp Nest",
+      "rewards": [
+        "Puppet-Devouring Green Hunter's Ergo",
+        "Golden Ergo"
+      ],
+      "description": "Puppet-Devouring Green Monsteris aBossinLies of P.Puppet-Devouring Green Monsteris the Monster that occupies the Barren Swamp said to have been made by the Alchemists. It is the second phase of theGreen Monster of the Swampafter it infuses itself with some nearby puppet parts. According to the Sentry's notebook, it obsessively protects its nest and likes to bring its toys there, and sucks Ergo from scrapped puppets. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/puppet-devouring_green_monster-boss-lies-of-p-wiki-guide-300px2.jpg",
+      "ergo": "12,489"
+    },
+    {
+      "name": "Corrupted Parade Master",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/corrupted_parade_master-boss-lies-of-p-wiki-guide-profile.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Corrupted+Parade+Master",
+      "location": "Cersani Alley",
+      "rewards": [
+        "Full Moonstone",
+        "Quartz"
+      ],
+      "description": "Corrupted Parade Masteris aBossinLies of P. TheCorrupted Parade Masteris the corrupted version of theParade Master, and it can spreadDecayin this form. Although theCorrupted Parade Masteris physically different from theParade Master, it retains some of its attacks. TheCorrupted Parade Masteris a Carcass, which means that it is vulnerable to Fire damage and Electric Blitz.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/corrupted_parade_master-boss-lies-of-p-wiki-guide-profile.jpg",
+      "health": "14,515",
+      "ergo": "13,016"
+    },
+    {
+      "name": "Black Rabbit Brotherhood",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/black_rabbit_brotherhood-boss-lies-of-p-wiki-guide-profile4.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Black+Rabbit+Brotherhood",
+      "location": "Relic of Trismegistus Combat Field",
+      "rewards": [
+        "Quartz"
+      ],
+      "description": "Black Rabbit Brotherhoodis aBossinLies of P. TheBlack Rabbit Brotherhoodis a notorious criminal group of 4 Stalkers based in the Malum District, but are later encountered again underground after defeating theEldest of the Black Rabbit Brotherhood. The other three members include the Battle Maniac, Eccentric, and the Youngest. Defeat the Black Rabbit Brotherhood in the Relic of Trismegistus to gain theAchievement:Revenge of the Black.This page will cover strategies for the second (2nd) encounter of this boss fight, the first encounter guide can be foundhere.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/underground_black_rabbit_brotherhood-boss-lies-of-p-wiki-guide-300px1.jpg",
+      "health": "11,317 (Eldest) 6,384 (Eccentric) 6,171 (Battle Maniac) 5,049 (Youngest)"
+    },
+    {
+      "name": "Laxasia the Complete",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/laxasia_the_complete-boss-lies-of-p-wiki-guide-profile.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Laxasia+the+Complete",
+      "location": "Ascension Bridge",
+      "rewards": [
+        "Sad Zealot's Ergo"
+      ],
+      "description": "Laxasia the Completeis aBossinLies of P.Laxasia the Complete'sloyalty lies with Sir Manus and stands in the way of you and the tower.Laxasia the Completeis extremely vulnerable to Acid damage, so it is recommended to use weapons that inflict Acid damage, such as theAcidic Crystal Spear Blade, or even consumables such asAcid Abrasive.Laxasiawill be encountered near theArche Abbey Prayer RoomStargazer.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/laxasia_the_complete-boss-lies-of-p-wiki-guide-300px1.jpg",
+      "health": "9,137 (1st phase) 13,735 (2nd phase)",
+      "ergo": "13,792"
+    },
+    {
+      "name": "Simon Manus, Awakened God",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/simon_manus,_awakened_god-boss-lies-of-p-wiki-guide-profile.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Simon+Manus,+Awakened+God",
+      "location": "Arche Abbey Cradle of the Gods",
+      "rewards": [
+        "Fallen One's Ergo",
+        "Arm of God"
+      ],
+      "description": "Simon Manus (Arm of God in 1st phase, Awakened God in 2nd phase)is aBossinLies of P.Simon Manus, Awakened Godis the awakened version and the second phase ofSimon Manus, Arm of Godand the ascended form of the NPC,Simon Manus, one of the leaders of the Alchemists. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/simon_manus,_awakened_god-boss-lies-of-p-wiki-guide-300px2.jpg",
+      "health": "13,719 (1st phase) 19,166 (2nd phase)",
+      "ergo": "15,128"
+    },
+    {
+      "name": "Nameless Puppet",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/nameless_puppet-boss-lies-of-p-wiki-guide-profile.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Nameless+Puppet",
+      "location": "Under the Abyss",
+      "rewards": [
+        "Nameless Puppet's Ergo"
+      ],
+      "description": "Nameless Puppetis aBossinLies of P.Nameless Puppetis one of Geppetto's creations and the last onePwill face.Geppettouses the Nameless Puppet to punish P for his mischievous ways. Defeating theNameless Puppetwill give the player theNameless Puppet's Ergo. TheNameless Puppetis extremely weak against Electric Blitz, and weak against Acid, so it is recommended to use equipment that deals Electric Blitz damage. Defeating the Nameless Puppet earns you theAchievement:The First Puppet.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/nameless_puppet-boss-lies-of-p-wiki-guide-300px3.jpg",
+      "health": "11,298 (1st phase) 16,947 (2nd phase)",
+      "ergo": "16,208"
+    }
+  ],
+  "Minibosses":
+  [
+    {
+      "name": "Mad Donkey",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/mad-donkey-profile-boss-lies-of-p-wiki-guide.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Mad+Donkey",
+      "location": "Alchemist Bridge",
+      "rewards": [
+        "Mad Donkey's Hunting Apparel",
+        "Mad Donkey's Mask",
+        "Krat City Hall Key",
+        "Enigma Assembly Tool"
+      ],
+      "description": "Mad Donkeyis aBossinLies of P. The Mad Donkey is a Boss in a humanoid form with a Donkey mask, giving it its name. TheMad Donkeywields a long Great Saw, used for hunting. He appears to hold a grudge against all puppets and their puppet maker, and his thirst for truth brings out his violent and stubborn nature despite all the dangers he faces. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/mad-donkey-profile-boss-lies-of-p-wiki-guide.jpg",
+      "health": "4,696",
+      "ergo": "1,278"
+    },
+    {
+      "name": "Puppet of the Future",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/puppet_of_the_future-profile-boss-lies-of-p-wiki-guide.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Puppet+of+the+Future",
+      "location": "Workshop Union CulvertBarren Swamp",
+      "rewards": [
+        "Quartz",
+        "Radiant Ergo Chunk"
+      ],
+      "description": "Puppet of the Futureis aBossinLies of P. Puppet of the Future is an optional mini-boss puppet made of metal parts located on the lower floors of the Workshop Union Culvert. An iconic feature of the puppet is its long weighted arms that are able to support the whole puppet. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets. Mini-bosses will not drop unique Ergo, but you will still be able to gain valuable loot.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/puppet_of_the_future-profile-boss-lies-of-p-wiki-guide.jpg",
+      "health": "9,871 (Workshop Union) 11,952 (Barren Swamp)",
+      "ergo": "4,335 (Workshop Union) 2,752 (Barren Swamp)"
+    },
+    {
+      "name": "Survivor",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/survivor-profile-boss-lies-of-p-wiki-guide.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Survivor",
+      "location": "Workshop Union Culvert - Venigni Works Control Room",
+      "rewards": [
+        "Stalker's Promise",
+        "Survivor's Mask",
+        "Survivor's Hunting Apparel"
+      ],
+      "description": "Survivoris aBossinLies of P. The Survivor is a mini-boss that is a part of the Stalkers. The Survivor wears a mouse mask indicating that he is a Rookie Stalker. Rookie Stalkers usually wear the animal masks decided by superiors. Wear theBlue Blood's Tailcoatoutfit to trigger dialogue that suggests he is guilt-ridden for abandoning his friend, Leo, and laments breaking his vow. Eliminating regualar Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets. SeeSurvivor (NPC)page for additional NPC information.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/survivor-profile-boss-lies-of-p-wiki-guide.jpg",
+      "health": "6,437",
+      "ergo": "1,633"
+    },
+    {
+      "name": "The Atoned",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/the_atoned-profile-boss-lies-of-p-wiki-guide.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/The+Atoned",
+      "location": "Moonlight Town Cable Railway",
+      "rewards": [
+        "Cable Railway Key",
+        "The Atoned's Mask"
+      ],
+      "description": "The Atonedis aBossinLies of P. The Atoned is a mini-boss that wears an old dog mask as a part of theStalkers. She stands in the way of the Pilgrim's Cable Railway that takes you to the Path of Misery, which leads to the St. Frangelico Cathedral, to prevent people from traveling there, even if that means attacking them. She warns that there is terror above. Eliminating main Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets. SeeThe Atoned (NPC)page for additionalNPCinformation.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/the_atoned-profile-boss-lies-of-p-wiki-guide.jpg",
+      "health": "6,183",
+      "ergo": "2,024"
+    },
+    {
+      "name": "White Lady",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/white_lady-boss-lies-of-p-wiki-guide-profile.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/White+Lady",
+      "location": "Rosa Isabelle Street",
+      "rewards": [
+        "The White Lady's Locket",
+        "The White Lady's Mask"
+      ],
+      "description": "White Ladyis aBossinLies of P. TheWhite Ladyis a mini-boss who wears a pigeon mask. She became a Stalker instead of continuing to pursue her dreams as an opera singer. She is also known as Patricia, a musician as part of a performing duo along with her sister,Adelina, the primadonna singer in the red dress. She now seeks to avenge her sister by eliminating puppets who took her. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets. SeeWhite Lady (NPC)page for additionalNPCinformation.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/white_lady-boss-lies-of-p-wiki-guide-profile.jpg",
+      "health": "8,942",
+      "ergo": "2,330"
+    },
+    {
+      "name": "Mad Clown Puppet",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/mad_clown_puppet-boss-lies-of-p-wiki-guide-profile.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Mad+Clown+Puppet",
+      "location": "Rosa Isabelle Street",
+      "rewards": [
+        "Quartz"
+      ],
+      "description": "Mad Clown Puppetis aMini-BossinLies of P. TheMad Clown Puppetcan be seen patrolling inRosa Isabelle Street Culvertright before theEstella Opera Houseand can be fought when approached. TheMad Clown Puppetis weak to Fire damage and Electric Blitz, so it is recommended to use weapons that inflict those damage types when fighting theMad Clown Puppet.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/mad_clown_puppet-boss-lies-of-p-wiki-guide-profile.jpg",
+      "health": "11,023",
+      "ergo": "6,187"
+    },
+    {
+      "name": "Owl Doctor",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/owl_doctor-boss-lies-of-p-wiki-guide-profile.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Owl+Doctor",
+      "location": "Barren Swamp",
+      "rewards": [
+        "Owl Doctor's Mask"
+      ],
+      "description": "Owl Doctoris aBossinLies of P.Owl Doctoris one of the Stalker mini-bosses with a mask of an Owl. The Alchemists' merciless experiments pushed him to his limit. In his pain, he denied reality and escaped into delusion. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/owl_doctor-boss-lies-of-p-wiki-guide-profile.jpg",
+      "health": "10,640",
+      "ergo": "2,680"
+    },
+    {
+      "name": "Walker of Illusions",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/walker_of_illusions-boss-lies-of-p-wiki-guide-profile.jpg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Walker+of+Illusions",
+      "location": "Collapsed Workshop Tower",
+      "rewards": [
+        "Legion Caliber",
+        "Dark moon Moonstone of the Covenant"
+      ],
+      "description": "Walker of Illusionsis aBossinLies of P.Walker of Illusionsis one of the mini-bosses found at the top of the Collapsed Workshop Tower on Collapsed Street, and the player will face her after climbing the ladder to the top. TheWalker of Illusionsis weak against Fire, so the player can use weapons and consumables that deal Fire damage to it. TheWalker of Illusionsdrops theLegion Caliberand theDark Moon Moonstone of the Covenantupon defeat.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/walker_of_illusions-boss-lies-of-p-wiki-guide-profile.jpg",
+      "health": "14,003",
+      "ergo": "7,416"
+    },
+    {
+      "name": "Door Guardian",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/door_guardian-boss-lies-of-p-wiki-guide-square2-boost.jpeg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Door+Guardian",
+      "location": "Arche Abbey Entrance",
+      "rewards": [
+        "High-level Alchemist Badge"
+      ],
+      "description": "Door Guardianis aBossinLies of P.Door Guardianis the Guard and a high-level Alchemist mini-boss atArche Abbey. TheDoor Guardianholds the Key to the mysterious door. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/door_guardian-boss-lies-of-p-wiki-guide-square2-boost.jpeg",
+      "health": "17,118",
+      "ergo": "6,549"
+    },
+    {
+      "name": "Robber Weasel",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/robber-weasel-profile-boss-lies-of-p-wiki-guide-300px3.jpeg",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Robber+Weasel",
+      "location": "Krat Central Station Platform",
+      "rewards": [
+        "obber Weasel's Mask",
+        "obber Weasel's Hunting Apparel"
+      ],
+      "description": "Wobber Weaselis aBossinLies of P. Wobber Weaselis a Mini-Boss that wields a small axe and wears a Weasel animal mask, a common feature of the Stalkers. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/robber-weasel-profile-boss-lies-of-p-wiki-guide-300px3.jpeg",
+      "health": "11,346",
+      "ergo": "2,793"
+    },
+    {
+      "name": "Red Fox (Boss)",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/red-fox-npc-lies-of-p-wiki-guide-min.png",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Red+Fox+(Boss)",
+      "location": "Arche Abbey Upper Area",
+      "rewards": [
+        "Red Fox's Mask"
+      ],
+      "description": "Red Fox (Boss)is aBossinLies of P.Red Fox (Boss)is one of the Stalkers seen throughout the game in various locations commonly seen withBlack Cat, her brother. She is a generally amicableNPCwho is involved in other questlines, but players will have the option to battle her as a mini-boss later in the game. If you choose to show her kindness, she later introduces herself as Claudia. Eliminating Bosses will usually cause them to drop rareErgo. The Ergo you obtain by defeating a boss is extremely valuable. Players will eventually be able to use these to exchange them for specialWeaponsandAmulets. See theRed FoxNPC page for additionalNPCand quest information.",
+      "image": "https://liesofp.wiki.fextralife.com/file/Lies-of-P/red-fox-npc-lies-of-p-wiki-guide-min.png",
+      "health": "12,616",
+      "ergo": "3,014"
+    },
+    {
+      "name": "Black Cat (Boss)",
+      "thumbnail": "https://liesofp.wiki.fextralife.com/file/Monster-Hunter-World/thumbnails/mhws.png",
+      "detail_url": "https://liesofp.wiki.fextralife.com/Black+Cat+(Boss)",
+      "location": "Arche Abbey",
+      "rewards": [
+        "Black Cat's Mask"
+      ],
+      "description": "Black Cat (Boss)is aBossinLies of P.Black Cat (Boss)is one of the Stalkers seen throughout the game in various locations withRed Fox, his sister, as a generally amicableNPC, but players will have the option to fight him. When he requests for a Gold Coin Fruit, you can give it to him or refuse to initiate the battle. He wields aCity Longspearin battle. See theBlack CatNPC page for additionalNPCand quest information.Note that fighting the Black Cat for hisBlack Cat's Maskis not mandatory.",
+      "image": "https://xliesofp.wiki.fextralife.com/file/Lies-of-P/black-cat-npc-lies-of-p-wiki-guide-min.png",
+      "health": "12,588",
+      "ergo": "2,960"
+    }
+  ]
+}

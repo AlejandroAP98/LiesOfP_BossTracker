@@ -99,12 +99,19 @@ export function App() {
       await saveDefeated(username, updatedDefeated);
       await saveTimeFirebase(bossName, currentElapsed, username);
       const localJson = localStorage.getItem(LS_KEY);
+
+    //Solo reproducir si pasa de no derrotado → derrotado
+      const audio = new Audio("/sounds/piano.mp3");
+      audio.volume = 0.2;
+      audio.play().catch(err => console.log("Error reproduciendo sonido:", err));
+      
       if (localJson) {
         const local = JSON.parse(localJson);
         delete local[bossName];
         localStorage.setItem(LS_KEY, JSON.stringify(local));
       }
       setTimers(prev => ({ ...prev, [bossName]: currentElapsed }));
+      
     } else {
       // Quitar como derrotado
       await saveDefeated(username, updatedDefeated);
@@ -131,13 +138,13 @@ export function App() {
       <div className="flex flex-col">
         <Stats defeated={defeated} timers={timers} />
       </div>
-      <div className="flex justify-center gap-4 mb-2">
-        <ul className="menu menu-horizontal  bg-base-200 rounded-box justify-center gap-2">
+      <div className="flex justify-center gap-2 mb-2">
+        <ul className="menu menu-horizontal  bg-base-300 rounded-box justify-center gap-2">
           {Object.entries(bossesByCategory).map(([category]) => (
             <li key={category}>
               <a
                 onClick={() => setActiveTab(category)}
-                className={`${activeTab === category ? 'text-primary font-bold decoration-primary-500 underline-offset-4 underline' : 'text-base-content'}`}
+                className={`${activeTab === category ? 'text-primary font-bold decoration-primary bg-base-200' : 'text-base-content'}`}
               >
                 {category}
               </a>
@@ -146,7 +153,7 @@ export function App() {
         </ul>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 w-full mb-2"> 
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 w-full mb-2"> 
         {bosses.map((boss) => (
           <BossCard
             boss={boss}

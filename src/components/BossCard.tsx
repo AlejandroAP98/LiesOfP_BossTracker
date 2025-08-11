@@ -91,7 +91,7 @@ export const BossCard = ({
         <figure >
             <img src={boss.image} alt={boss.name} className="w-48 h-48 rounded-full object-cover" />
         </figure>
-      <h2 className="card-title font-bold flex text-center items-center justify-center">{boss.name}</h2>
+      <h2 className="card-title font-bold flex text-center items-center justify-center mt-1">{boss.name}</h2>
       <div className="card-body w-full flex flex-col justify-between">
         <div className="flex flex-col justify-between w-full gap-1">
             <div className="flex justify-between items-center w-full">

@@ -11,7 +11,7 @@ export default defineConfig({
     tailwindcss(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon.ico', 'robots.txt', 'apple-touch-icon.png'],
+      includeAssets: ['favicon.ico', 'robots.txt', 'apple-touch-icon.png', "sounds/piano.mp3"],
       manifest: {
         id: '/',
         name:'Lies of P Boss Tracker',
@@ -32,6 +32,17 @@ export default defineConfig({
             src: '/android-chrome-512x512.png',
             sizes: '512x512',
             type: 'image/png',
+          },
+        ],
+      },
+      workbox: {
+        runtimeCaching: [
+        {
+            urlPattern: /\/sounds\/.*\.mp3$/,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'custom-cache'
+            }
           },
         ],
       },

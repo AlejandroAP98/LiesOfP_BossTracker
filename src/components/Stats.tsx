@@ -7,6 +7,7 @@ Stats.defaultProps = {
 };
 
 function Stats({ defeated, timers }: { defeated: Record<string, boolean>; timers: Record<string, number> }) {
+  const username = window.localStorage.getItem("bossTracker_username");
   const stats = useMemo(() => {
     // Total de bosses en todas las categorías
     const totalBosses =
@@ -41,7 +42,7 @@ function Stats({ defeated, timers }: { defeated: Record<string, boolean>; timers
   }, [defeated, timers]); 
 
   return (
-    <div class="w-full flex flex-col justify-center items-center gap-2 mx-1">
+    <div class="w-full flex flex-col justify-center items-center gap-2 bg-base-200 rounded-box p-4 mb-1">
       <div class="w-full">
         <progress
         className="progress progress-warning w-full "
@@ -51,6 +52,9 @@ function Stats({ defeated, timers }: { defeated: Record<string, boolean>; timers
       </div>
       <div class="w-full flex justify-between items-center">
         <p class="text-xl font-bold font-mono">{stats.progress}%</p>
+        <span className="text-sm text-center">
+          {username}
+        </span>
         <p class="text-xl font-bold font-mono">{stats.totalTimeFormatted}</p>
       </div>
     </div>
